@@ -20,9 +20,9 @@ Gui, Add, Slider, x10 y49 w277 h30 vMinBuild gMinBuild ToolTip Range0-500, 25
 Gui, Add, Text, x10 y89 w277 h20 , Maximum Delay (milliseconds)
 Gui, Add, Slider, x10 y109 w277 h30 vMaxBuild gMaxBuild ToolTip Range0-500, 62
 Gui, Tab, Help
-Gui, Add, Text, x12 y29 w220 h30 , Autoclicker Toggle: Alt
+Gui, Add, Text, x12 y29 w220 h30 , Autoclicker Toggle: Side mouse button
 Gui, Add, Text, x12 y49 w220 h30 , Autoclicker Use: Hold Left Click
-Gui, Add, Text, x12 y69 w220 h30 , FastPlace Toggle: '
+Gui, Add, Text, x12 y69 w220 h30 , FastPlace Toggle: Side mouse button 2
 Gui, Add, Text, x12 y89 w220 h30 , FastPlace Use: Hold Right Click
 Gui, Add, Text, x12 y129 w220 h32 , You can change these keys in the script. (exmaples below)
 Gui, Add, Text, cBlue gAExample, Autoclicker Hotkey Example (click)
